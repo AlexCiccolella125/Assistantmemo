@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "62144290773",
+    "project_id": "fire-assistantmemo",
+    "storage_bucket": "fire-assistantmemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62144290773:android:f3bdc5bd051f99b1d6275c",
+        "android_client_info": {
+          "package_name": "com.assistantmemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62144290773-d7oo5q86airk6d57oo4e0bn85vdrfreq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assistantmemo",
+            "certificate_hash": "c2500ae824d735affdedcf6773e696789d3c4653"
+          }
+        },
+        {
+          "client_id": "62144290773-3kogso3dndkr91va2klis5u11tn1rc6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJ9VIOuEAnJYuj4cBO6h_xQdSa_8Knis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62144290773-3kogso3dndkr91va2klis5u11tn1rc6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
